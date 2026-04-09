@@ -1,0 +1,23 @@
+{
+  "channels": [
+    {
+      "name": "한경글로벌마켓",
+      "channel_id": "UCWskYkV4c4S9D__rsfOl2JA",
+      "keywords": ["빈난새", "개장전요것만", "김현석", "월스트리트나우"]
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "keywords": ["당잠사"]
+    },
+    {
+      "name": "증시각도기TV",
+      "channel_id": "UCdOjVxkj5JA0iDu3_xcsTyQ",
+      "keywords": ["증시각도기"]
+    }
+  ],
+  "slack_channel": "#cc-workshop",
+  "slack_channel_id": "C0ARSJQ9U66",
+  "notion_database_id": "5295064cfb264c0e8f3596d1366d9e01",
+  "notion_data_source": "collection://5358d760-8d92-4738-8f7f-2d98b9ba2e44"
+}
