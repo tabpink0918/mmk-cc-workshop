@@ -43,7 +43,7 @@ Notion 데이터베이스(data_source_id: `5358d760-8d92-4738-8f7f-2d98b9ba2e44`
 MCP 도구(`notion-create-pages`)를 사용하여 다음 속성으로 저장합니다:
 - `제목`: 영상 제목
 - `채널`: 채널명
-- `날짜`: 게시일 (ISO 8601 date 형식, 예: "2026-04-09")
+- `date:날짜:start`: 게시일 (ISO 8601 date 형식, 예: "2026-04-09")
 - `요약`: 요약 텍스트 (bullet points 포함)
 - `URL`: 영상 URL
 - `영상ID`: 영상 ID (중복 방지용)

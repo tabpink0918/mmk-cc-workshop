@@ -11,10 +11,32 @@
 
 ## 실행 단계
 
-1. mmk CLI로 자막을 가져옵니다:
+1. `yt-dlp`로 한국어 자막을 가져옵니다 (mmk youtube transcript 대체):
 
 ```bash
-mmk youtube transcript {VIDEO_URL}
+yt-dlp --no-check-certificate --write-auto-subs --sub-lang ko --skip-download \
+  --output "/tmp/transcript_%(id)s.%(ext)s" \
+  "{VIDEO_URL}" 2>&1
+
+# VTT 파일을 텍스트로 변환
+python3 -c "
+import re, glob
+files = glob.glob('/tmp/transcript_*.ko.vtt')
+if not files:
+    print('자막 없음')
+else:
+    content = open(files[0]).read()
+    lines = content.split('\n')
+    result = []
+    prev = None
+    for line in lines:
+        if '-->' in line or line.startswith('WEBVTT') or not line.strip(): continue
+        clean = re.sub(r'<[^>]+>', '', line).strip()
+        if clean and clean != prev:
+            result.append(clean)
+            prev = clean
+    print('\n'.join(result))
+"
 ```
 
 2. 자막이 성공적으로 취득되면, 아래 형식으로 핵심 내용을 요약합니다:
