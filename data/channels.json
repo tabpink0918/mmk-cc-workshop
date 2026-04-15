@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "handle": "3proTV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "description": "한국 주식·경제 투자 전문 채널"
+    },
+    {
+      "name": "머니투데이",
+      "handle": "MoneyToday",
+      "channel_id": "UCoiydSu2BG9axZmoY8zpQrg",
+      "description": "머니투데이 경제·금융 채널"
+    }
+  ]
+}
