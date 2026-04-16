@@ -1,0 +1,28 @@
+{
+  "channels": [
+    {
+      "name": "신한투자증권 알파TV",
+      "handle": "@ShinhanSecurities",
+      "channel_id": "UCYzZm9_nasRW6npCkjlTjKQ",
+      "description": "신한투자증권 공식 유튜브 채널"
+    },
+    {
+      "name": "채널K (키움증권)",
+      "handle": "@채널K",
+      "channel_id": "UCEJp8XuzylMvX8OOo_Lby5Q",
+      "description": "키움증권 공식 유튜브 채널"
+    },
+    {
+      "name": "WowTV (한국경제TV)",
+      "handle": "@wowtv",
+      "channel_id": "UC6RN3c9CMHTL-5YfBLvwe_g",
+      "description": "한국경제TV 공식 유튜브 채널"
+    },
+    {
+      "name": "스마트머니 (미래에셋)",
+      "handle": "@스마트머니",
+      "channel_id": "UCgLU9rm4snz0te8yHShx8gA",
+      "description": "미래에셋증권 스마트머니 유튜브 채널"
+    }
+  ]
+}
