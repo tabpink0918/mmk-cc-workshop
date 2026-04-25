@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "url": "https://www.youtube.com/@3protv"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UC6RN3c9CMHTL-5YfBLvwe_g",
+      "url": "https://www.youtube.com/@wowtv"
+    },
+    {
+      "name": "슈카월드",
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "url": "https://www.youtube.com/@syukaworld"
+    }
+  ]
+}
