@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "description": "경제/증시 분석 채널"
+    },
+    {
+      "name": "슈카월드",
+      "channel_id": "UCgYif9zf5IGYfqJJ04c-usQ",
+      "description": "경제 이슈 해설"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UC6RN3c9CMHTL-5YfBLvwe_g",
+      "description": "한국경제TV 공식 채널"
+    }
+  ]
+}
