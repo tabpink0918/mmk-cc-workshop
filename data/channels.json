@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "description": "국내 1위 경제/주식 전문 유튜브 채널"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UC6RN3c9CMHTL-5YfBLvwe_g",
+      "description": "한국경제TV 공식 유튜브 채널"
+    }
+  ]
+}
