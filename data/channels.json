@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "handle": "@3protv"
+    },
+    {
+      "name": "삼성증권",
+      "channel_id": "UCq7h8qFlHN5FL_T6waKZllw",
+      "handle": "@samsungsecurities"
+    }
+  ]
+}
