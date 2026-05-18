@@ -1,0 +1,20 @@
+{
+  "channels": [
+    {
+      "name": "한국경제TV",
+      "handle": "@한국경제TV",
+      "url": "https://www.youtube.com/@한국경제TV"
+    },
+    {
+      "name": "머니투데이방송",
+      "handle": "@MTVKOREA",
+      "url": "https://www.youtube.com/@MTVKOREA"
+    },
+    {
+      "name": "이데일리TV",
+      "handle": "@edailytv",
+      "url": "https://www.youtube.com/@edailytv"
+    }
+  ],
+  "max_videos_per_channel": 3
+}
