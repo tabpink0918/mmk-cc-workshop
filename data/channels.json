@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV_경제의신과함께",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "description": "경제 및 주식 투자 전문 채널"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "description": "빠르고 정확한 경제·증권 정보"
+    },
+    {
+      "name": "한경 글로벌마켓",
+      "channel_id": "UCWskYkV4c4S9D__rsfOl2JA",
+      "description": "한국경제 해외 특파원 글로벌 투자 뉴스"
+    }
+  ]
+}
