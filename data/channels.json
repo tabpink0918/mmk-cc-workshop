@@ -1,0 +1,20 @@
+[
+  {
+    "name": "삼프로TV",
+    "handle": "@3protv",
+    "url": "https://www.youtube.com/@3protv/videos",
+    "description": "한국 증시 전문 채널"
+  },
+  {
+    "name": "슈카월드",
+    "handle": "@syukaworld",
+    "url": "https://www.youtube.com/@syukaworld/videos",
+    "description": "한국 경제/증시 심층 분석"
+  },
+  {
+    "name": "한국경제TV",
+    "handle": "@한국경제TV",
+    "url": "https://www.youtube.com/@한국경제TV/videos",
+    "description": "한국경제TV 공식 채널"
+  }
+]
