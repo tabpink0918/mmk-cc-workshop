@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "handle": "@3protv",
+      "description": "주식·경제 전문 채널"
+    },
+    {
+      "name": "슈카월드",
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "handle": "@syukaworld",
+      "description": "경제·금융 해설 채널"
+    }
+  ]
+}
