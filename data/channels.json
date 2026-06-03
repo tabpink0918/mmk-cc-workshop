@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV_경제의신과함께",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "url": "https://www.youtube.com/channel/UChlv4GSd7OQl3js-jkLOnFA"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "url": "https://www.youtube.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg"
+    },
+    {
+      "name": "매일경제TV",
+      "channel_id": "UCMkuMIVM5MhsR8-ByB62_yg",
+      "url": "https://www.youtube.com/@MKeconomy_TV"
+    }
+  ]
+}
