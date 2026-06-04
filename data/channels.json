@@ -1,0 +1,17 @@
+[
+  {
+    "name": "삼프로TV",
+    "channel_url": "https://www.youtube.com/@3proTV",
+    "description": "경제/증시 전문 채널"
+  },
+  {
+    "name": "한국경제TV",
+    "channel_url": "https://www.youtube.com/@한국경제TV",
+    "description": "한국경제TV 공식 채널"
+  },
+  {
+    "name": "미래에셋증권 LIVE",
+    "channel_url": "https://www.youtube.com/@miraeassetlive",
+    "description": "미래에셋증권 유튜브"
+  }
+]
