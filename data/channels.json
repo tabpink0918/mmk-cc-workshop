@@ -1,0 +1,20 @@
+{
+  "channels": [
+    {
+      "name": "슈카월드",
+      "url": "https://www.youtube.com/@syukaworld/videos",
+      "description": "경제/주식 해설 채널"
+    },
+    {
+      "name": "삼프로TV",
+      "url": "https://www.youtube.com/@3protv/videos",
+      "description": "경제/투자 전문 채널"
+    },
+    {
+      "name": "박곰희TV",
+      "url": "https://www.youtube.com/@parkgomhee/videos",
+      "description": "주식 투자 채널"
+    }
+  ],
+  "max_videos_per_channel": 3
+}
