@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "name": "삼프로TV",
+      "description": "한국 최대 주식/경제 유튜브 채널"
+    },
+    {
+      "id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "name": "한국경제TV",
+      "description": "한국경제신문 공식 유튜브"
+    },
+    {
+      "id": "UC2QeHNJFfuQWB4cy3M-745g",
+      "name": "부읽남TV",
+      "description": "부동산/주식 투자 콘텐츠"
+    },
+    {
+      "id": "UCCUVUXRNhOSZBOFWRa15nVQ",
+      "name": "한국과 경제",
+      "description": "한국 증시 분석 채널"
+    }
+  ]
+}
