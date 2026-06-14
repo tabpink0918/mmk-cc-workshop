@@ -1,0 +1,22 @@
+[
+  {
+    "name": "삼프로TV_3PROTV",
+    "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+    "description": "경제/주식 전문 채널 삼프로TV"
+  },
+  {
+    "name": "한국경제TV",
+    "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+    "description": "한국경제TV 공식 채널"
+  },
+  {
+    "name": "한국증권TV",
+    "channel_id": "UC9OdxrtKsOxQCXpjNmaRMsw",
+    "description": "한국증권TV"
+  },
+  {
+    "name": "한경글로벌마켓",
+    "channel_id": "UCWskYkV4c4S9D__rsfOl2JA",
+    "description": "한국경제 글로벌마켓 채널"
+  }
+]
