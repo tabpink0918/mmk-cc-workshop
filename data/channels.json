@@ -1,0 +1,24 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV_경제의신과함께",
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "description": "국내 대표 경제/증시 유튜브 채널"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+      "description": "한국경제TV 공식 채널"
+    },
+    {
+      "name": "머니팜_한국경제TV",
+      "channel_id": "UCRbT3P-2tmr-9l8D7jNoZMQ",
+      "description": "한국경제TV 머니팜"
+    },
+    {
+      "name": "한국증권TV",
+      "channel_id": "UC9OdxrtKsOxQCXpjNmaRMsw",
+      "description": "증권 전문 채널"
+    }
+  ]
+}
