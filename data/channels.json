@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV",
+      "handle": "https://www.youtube.com/@3protv"
+    },
+    {
+      "name": "슈카월드",
+      "handle": "https://www.youtube.com/@ShukaWorld"
+    },
+    {
+      "name": "박곰희TV",
+      "handle": "https://www.youtube.com/@parkgomhee"
+    }
+  ]
+}
