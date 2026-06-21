@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "슈카월드",
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "description": "경제/증시 해설"
+    },
+    {
+      "name": "삼프로TV",
+      "channel_id": "UCtvUwRNZ5I3dGkSWoopkpSQ",
+      "description": "주식/경제 전문"
+    },
+    {
+      "name": "박곰희TV",
+      "channel_id": "UCupPNkHF5dBg-N4R6MwKCAQ",
+      "description": "투자/재테크"
+    }
+  ]
+}
