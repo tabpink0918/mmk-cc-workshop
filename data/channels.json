@@ -1,0 +1,22 @@
+{
+  "channels": [
+    {
+      "name": "슈카월드",
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "url": "https://www.youtube.com/@syukaworld",
+      "description": "경제·금융·주식 시사 해설"
+    },
+    {
+      "name": "삼프로TV",
+      "channel_id": "UCPJSMTNLMb0U_2RHjXk11gw",
+      "url": "https://www.youtube.com/@3protv",
+      "description": "주식·경제 전문 채널"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCkWm_K-aHrfhq9fGf6bEwkA",
+      "url": "https://www.youtube.com/@HankyungTV",
+      "description": "한국경제TV 공식 유튜브"
+    }
+  ]
+}
