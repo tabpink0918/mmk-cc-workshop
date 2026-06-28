@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼성증권 POP",
+      "user": "samsungpop",
+      "url": "https://www.youtube.com/user/samsungpop"
+    },
+    {
+      "name": "MTN 머니투데이방송",
+      "user": "mtn",
+      "url": "https://www.youtube.com/user/mtn"
+    },
+    {
+      "name": "알파TV - 신한투자증권",
+      "user": "shinhaninvest",
+      "url": "https://www.youtube.com/user/shinhaninvest"
+    }
+  ]
+}
