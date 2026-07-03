@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "삼프로TV_경제의신과함께",
+      "channel_id": "UCbi5BqkTNlBPXEZqZomJXrA",
+      "url": "https://www.youtube.com/@3protv"
+    },
+    {
+      "name": "한국경제TV",
+      "channel_id": "UCqyajKIYx3k7V3vqVBTIiJg",
+      "url": "https://www.youtube.com/@wowtv"
+    },
+    {
+      "name": "미래에셋증권",
+      "channel_id": "UCHnZMHFpjDEEjNcpQ3Z0wOg",
+      "url": "https://www.youtube.com/@miraeasset"
+    }
+  ]
+}
